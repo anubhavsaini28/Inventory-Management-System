@@ -1,21 +1,7 @@
-﻿## Team Name : NexByte
-## Team Details :
- ### Priy Mavani
- ### Mayur Waykar
- ### Vanshika Jangam
- ### Krish shyara
-
-## Problem Statement - StockMaster
-## Revier Name : Aman Patel 
-
-## Demo Video
-
-Watch the demo: [Play video on Google Drive](https://drive.google.com/drive/folders/1xgiYgXuigjltaZf_UEWuIw6FVTkyLNTO)
-
-## Project Link 
+﻿## Project Link 
 [stock master link](https://odoo-stock-frontend.vercel.app/)
 
-[Backend Link](https://odoo-stockmaster-backend.onrender.com)
+[Backend Link](https://inventory-management-system-7g4b.onrender.com)
 
 
 # StockMaster - Inventory Management System
@@ -504,7 +490,7 @@ Odoo_StockMaster/
 
 #### Frontend Configuration
 
-The frontend is configured to connect to `https://odoo-stockmaster-backend.onrender.com/api` by default. To change this, edit `Frontend/src/lib/apiClient.js`:
+The frontend is configured to connect to `https://inventory-management-system-7g4b.onrender.com` by default. To change this, edit `Frontend/src/lib/apiClient.js`:
 
 ```javascript
 const API_BASE_URL = 'http://your-backend-url/api';
@@ -519,7 +505,7 @@ const API_BASE_URL = 'http://your-backend-url/api';
    # Or:
    npm start      # Production mode
    ```
-   The API will be available at `https://odoo-stockmaster-backend.onrender.com`
+   The API will be available at `https://inventory-management-system-7g4b.onrender.com`
 
 2. **Start the Frontend Development Server**
    ```bash
@@ -537,7 +523,7 @@ const API_BASE_URL = 'http://your-backend-url/api';
 
 ### Base URL
 ```
-https://odoo-stockmaster-backend.onrender.com/api
+https://inventory-management-system-7g4b.onrender.com
 ```
 
 ### Authentication
