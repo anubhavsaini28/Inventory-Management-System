@@ -1,7 +1,4 @@
-﻿## Project Link 
-[stock master link](https://odoo-stock-frontend.vercel.app/)
-
-[Backend Link](https://inventory-management-system-7g4b.onrender.com)
+﻿
 
 
 # StockMaster - Inventory Management System
