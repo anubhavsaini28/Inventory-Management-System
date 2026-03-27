@@ -323,7 +323,7 @@ flowchart TD
 ## 📁 Project Structure
 
 ```
-Odoo_StockMaster/
+Inventory-Management-System/
 ├── backend/                    # Node.js/Express backend
 │   ├── config/
 │   │   └── db.js              # MongoDB connection
@@ -427,7 +427,7 @@ Odoo_StockMaster/
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd Odoo_StockMaster
+   cd Inventory-Management-System
    ```
 
 2. **Install Backend Dependencies**
